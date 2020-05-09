@@ -1,4 +1,7 @@
+
 onefunction - I have added a very very important function here.
+
+
 secondfunction - I have added a very important second function here.
 thirdfunction - I have added a very important third function here.
 
@@ -8,4 +11,4 @@ a new div is added in the master branch.
 
 added a chart function in our branch.
 
-added a code for doing logout.
+
