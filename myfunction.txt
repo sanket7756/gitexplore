@@ -4,3 +4,6 @@ thirdfunction - I have added a very important third function here.
 
 
 a new div is added in the master branch.
+
+
+added a chart function in our branch.
