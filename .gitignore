@@ -1,0 +1,10 @@
+#this is a comment in git ignore file always
+
+#this is way of ignoring files of multiple extensions:
+*.js
+node_modules/
+assets/videos/
+.mp4
+!app.js
+
+
